@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88126613710",
+    "project_id": "fedesie-1",
+    "storage_bucket": "fedesie-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88126613710:android:695bc183ae0f8297efc89f",
+        "android_client_info": {
+          "package_name": "com.example.fedesie_admin_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyzfhUywn86OPOUzq-NgsuXHW9t55XcpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
