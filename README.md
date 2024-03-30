@@ -1,16 +1,26 @@
 # fedesie_admin_app
 
-A new Flutter project.
+App pour les adminstrateur(backend app)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ce projet a ete developpé pour permettre aux administrateurs principaux d'ajouter des utilisateurs en definissant les roles propres à chacun de ces
+utilisateurs, d'ajouter des activités et de gerer les differentes communautés......
 
-A few resources to get you started if this is your first Flutter project:
+<h2>OUtils</h2>
+  <h3>Languages:</h3>
+    <ul>
+      <li>Dart</li>
+    </ul>
+  <h3>Frameworks:</h3>
+    <ul>
+      <li>Flutter</li>
+    </ul>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  <h3>Dependances: </h3>
+    <ul>
+      <li>GetX: Pour gerer le state management </li>
+      <li>Intl</li>
+    </ul>
+<h2>Screenshots: </h2>
+  
